@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "namemcwrapper": "^2.4.1"
+  }
+}
