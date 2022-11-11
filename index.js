@@ -1,7 +1,6 @@
 const { Client, Intents, Collection, command } = require('discord.js');
 const bot = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
-const BOT_TOKEN = "MTA0MDcyMzQ5NDYwMzg2MjE2Nw.GtajN3.9bfrFWEIKwzXvQOEV2PSk70gIxkQtG2rZaYI5A"
 const PREFIX = "!!"
 
 
